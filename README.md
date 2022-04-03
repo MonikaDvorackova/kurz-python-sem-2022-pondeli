@@ -1,0 +1,1 @@
+# kurz-python-sem-2022-pondeli
