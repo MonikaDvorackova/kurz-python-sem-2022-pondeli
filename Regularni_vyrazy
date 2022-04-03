@@ -1,5 +1,6 @@
 
-# 1 Přidej k regulárnímu výrazu na číslo účtu možnost předčíslí
+
+# 1 Přidej k regulárnímu výrazu na číslo účtu možnost předčíslí
 # Pokud bychom neuvažovali předčíslí, stačí nám regulární výraz, který by měl pasovat např. na číslo účtu 2300117015/2010. Nesmíme zapomenout na zpětné lomítko před lomítkem., tj. na začátku může být 0 až 6 čísel a za nimi může (ale nemusí) být pomlčka. Předčíslí 
 
 # \d{0,6}-?\d{6,10}/\d{4}
